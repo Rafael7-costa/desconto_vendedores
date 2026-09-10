@@ -57,6 +57,7 @@ Uma distribuidora B2B de equipamentos de tecnologia percebeu, em reunião de res
 
 **Mensagem-chave:**
 > "Identifiquei 12 vendedores concedendo desconto médio acima de 1,5x a média do time, concentrados principalmente no produto GTX Basic. Padronizar esse comportamento à média do time recuperaria um estimado de R$ 15.051 em margem, com quase 70% desse valor concentrado nos 5 primeiros nomes do ranking (Lajuana Vencill, Garret Kinder, Kami Bicknell, Wilburn Farren e James Ascencio)."
+![Análise 1](img/1.png)
 
 ## Próximos Passos
 
